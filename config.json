@@ -2,7 +2,7 @@
   "prefix": "g",
   "bowner": "818410897843552317",
   "sserver": "https://discord.gg/P3wpHTj8Fy",
-  "binvite": "https://discord.com/oauth2/authorize?client_id=748583869527097376&permissions=21174635438&scope=bot",
+  "binvite": "https://discord.com/api/oauth2/authorize?client_id=827012000772653057&permissions=8&scope=bot",
   "serverid": "822118544031350805",
   "status": "Hamster OP",
   "type": "WATCHING"
